@@ -118,9 +118,8 @@ The test script doesn't just report the top prediction — it applies a **confid
 
 | Metric | Value |
 |---|---|
-| Validation accuracy | `XX.X%` |
-| Validation loss | `X.XX` |
-| Training epochs (early-stopped) | `XX / 150` |
+| Validation accuracy | `92.00%` |
+| Validation loss | `0.2261` |
 | Classes | 11 species + background |
 
 Consider adding a confusion matrix image and a training curve (accuracy/loss vs. epoch) here — both are easy to generate from the `model.fit()` history object and make this section far more convincing to reviewers.
