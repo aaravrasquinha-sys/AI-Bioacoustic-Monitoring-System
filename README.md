@@ -194,7 +194,7 @@ python scripts/4_test_model.py
 
 ## 👥 Team & Acknowledgments
 
-Built by [Your Name] and team, originally pitched and awarded **1st place at the IEEE Sustainathon**. Training audio sourced from the [Xeno-canto](https://xeno-canto.org/) community bird-sound archive.
+Built by Aarav Rasquinha,but originally pitched by Team Triple AAA Battery and awarded **1st place at the IEEE Sustainathon**. Training audio sourced from the [Xeno-canto](https://xeno-canto.org/) community bird-sound archive.
 
 ## 📄 License
 
