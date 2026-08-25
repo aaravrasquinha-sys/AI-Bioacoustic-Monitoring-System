@@ -1,6 +1,6 @@
 <div align="center">
 
-# Edge AI Bioacoustic Monitoring for Biodiversity Conservation
+# SENTINEL : Edge AI Bioacoustic Monitoring for Biodiversity Conservation
 
 **Detecting rare and unknown wildlife species by listening, not looking — designed for remote habitats no human survey team can reach.**
 
